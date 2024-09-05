@@ -29,8 +29,8 @@ Make sure you have the following installed:
 
  **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/bookai-price-component.git
-   cd bookai-price-component
+   https://github.com/Shubhampatel02/BookAiPrice_Assign.git
+   cd bookai
    npm install
    npm start
 
